@@ -49,7 +49,7 @@
 <ol>
   <li>Sign up for a free account on the <a href="https://www.visualcrossing.com/">Visual Crossing website</a>.</li>
   <li>Obtain your API key from the account page under the “Key” label in the “Your Details” section.</li>
-  <li>Add your API key in the project code for weather data requests.</li>
+  <li>Add your API key in MainActivity.java.</li>
 </ol>
 
 <h2>Usage</h2>
