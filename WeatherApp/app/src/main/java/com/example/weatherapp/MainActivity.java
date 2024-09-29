@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity {
 
     private static String starting_city = "Chicago, Illinois";
 
-    private static final String api_key ="PMSXZ3FNVRHMCSVK29NSTPKFP" ;
+    private static final String api_key ="your-api-key" ;
 
     private RequestQueue request;
 
